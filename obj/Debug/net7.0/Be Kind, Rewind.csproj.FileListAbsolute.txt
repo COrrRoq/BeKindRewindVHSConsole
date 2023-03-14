@@ -1,0 +1,15 @@
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\bin\Debug\net7.0\Be Kind, Rewind.exe
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\bin\Debug\net7.0\Be Kind, Rewind.deps.json
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\bin\Debug\net7.0\Be Kind, Rewind.runtimeconfig.json
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\bin\Debug\net7.0\Be Kind, Rewind.dll
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\bin\Debug\net7.0\Be Kind, Rewind.pdb
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.csproj.AssemblyReference.cache
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.AssemblyInfoInputs.cache
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.AssemblyInfo.cs
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.csproj.CoreCompileInputs.cache
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.dll
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\refint\Be Kind, Rewind.dll
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.pdb
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\Be Kind, Rewind.genruntimeconfig.cache
+C:\Users\catherine.orr\OneDrive - ROQ IT\Documents\Software Testing Bootcamp\Week 7\C# Intro\Be Kind, Rewind\obj\Debug\net7.0\ref\Be Kind, Rewind.dll
